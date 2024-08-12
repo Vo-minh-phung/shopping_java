@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/OrderNowServlet.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/AddToCartServlet.java</file>
+            <file>file:/F:/netbeans/shopping/web/product-image/index.jsp</file>
+            <file>file:/F:/netbeans/shopping/web/product-image/login.jsp</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/model/Cart.java</file>
+            <file>file:/F:/netbeans/shopping/web/product-image/1.jpg</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/LoginServlet.java</file>
+            <file>file:/F:/netbeans/shopping/web/product-image/orders.jsp</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/model/User.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/LogoutServlet.java</file>
+            <file>file:/F:/netbeans/shopping/web/product-image/cart.jsp</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/RemoveFromCartServlet.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/QuantityIncDecServlet.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/connection/DbCon.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/servlet/CheckOutServlet.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/dao/OrderDao.java</file>
+            <file>file:/F:/netbeans/shopping/src/java/cn/techtutorial/dao/ProductDao.java</file>
+        </group>
+    </open-files>
+</project-private>
